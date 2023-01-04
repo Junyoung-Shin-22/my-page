@@ -24,3 +24,10 @@ img {
 .link:hover {
     color: rgb(0, 113, 128);
 }
+
+th {
+    width: 300px;
+    padding: 0px 20px;
+    margin: 0px auto;
+    text-align: left;
+}
